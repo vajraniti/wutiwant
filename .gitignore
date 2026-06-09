@@ -1,0 +1,13 @@
+/target
+.idea/
+.vscode/
+
+# Выходные артефакты симуляции (большие, генерируются прогоном)
+/trades.csv
+/book.csv
+/plots/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
